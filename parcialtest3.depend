@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1593471363 source:c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"vuelos-piloto.h"
+	"parser.h"
+	"funcionesgnr.h"
+
+1593324560 source:c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\funcionesgnr.c
+	"funcionesgnr.h"
+
+1593324586 c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\funcionesgnr.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1593469485 source:c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593470056 c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\linkedlist.h
+
+1593470588 source:c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"vuelos-piloto.h"
+	"parser.h"
+
+1593471213 source:c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\vuelos-piloto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vuelos-piloto.h"
+
+1593471203 source:c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"vuelos-piloto.h"
+	"funcionesgnr.h"
+
+1593471161 c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\controller.h
+
+1593471405 c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\vuelos-piloto.h
+	"LinkedList.h"
+
+1593468544 c:\users\maty\documents\escritorio todo\porgramacion\utn\laboratorio y programacion\parcialtest3\parser.h
+
